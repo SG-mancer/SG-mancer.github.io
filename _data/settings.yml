@@ -2,16 +2,13 @@
 menu:
 - {name: 'Interesting Facts',  url: 'facts'}
 - {name: 'Learning Resources', url: 'resources'}
-- {name: 'Sample Posts',       url: 'sample-posts'}
 - {name: 'About',              url: 'about'}
 
 
 # Customize site text
 pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
-
-sharing_button_prompt: 'Feel free to share!'
+  next_page: '->'
+  previous_page: '<-'
 
 related_posts: 'You may also enjoy...'
 
