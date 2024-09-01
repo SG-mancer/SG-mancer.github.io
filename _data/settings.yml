@@ -1,7 +1,7 @@
 
 menu:
-- {name: 'Interesting Facts',  url: 'facts'}
-- {name: 'Learning Resources', url: 'resources'}
+- {name: 'Trivia',  url: 'facts'}
+- {name: 'Teaching resources', url: 'resources'}
 - {name: 'About',              url: 'about'}
 
 
@@ -10,6 +10,6 @@ pagination:
   next_page: '->'
   previous_page: '<-'
 
-related_posts: 'You may also enjoy...'
+related_posts: 'Related posts' #heading for links at bottom of page
 
-post_date_prefix: 'Written on'
+post_date_prefix: '' #Used on post headers

@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Interesting Facts
-category: facts
+category: trivia
 permalink: /facts
 ---

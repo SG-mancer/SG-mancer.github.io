@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Learning Resources
-category: resources
+title: Teaching-tools
+category: teaching-tools
 permalink: /resources
 ---
