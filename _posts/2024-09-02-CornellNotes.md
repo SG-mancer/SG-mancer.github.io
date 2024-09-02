@@ -3,7 +3,7 @@ layout: post
 title: "Cornell One Notes template"
 author: "Shane George"
 category: study-tools
-tags: [blog, scaffolding]
+tags: [Uni]
 image: cornellscreenshot.png
 ---
 
