@@ -1,8 +1,14 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+title: Shane's ESC407 Portfolio
+description: My web-based portfolio for ESC407_202630
+author: Shane George
+theme: "just-the-docs"
 
 url: https://just-the-docs.github.io
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+#aux_links:
+#  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+callouts:
+  note:
+    title: Note
+    color: grey-dk
