@@ -38,7 +38,7 @@ Students use [browser developer tools](https://learn.microsoft.com/en-us/microso
 
 ## AI summary task
 {: .note-title }
-> ![AI review and summary](img/04-DeepSeekSummary.jpg)
+> [![AI review and summary](img/04-DeepSeekSummary.jpg)](week4B.html)
 > Composite screenshot of promt and [DeepSeek V3](https://deepseek.com/en/) response.
 <!-- (https://github.com/deepseek-ai/DeepSeek-V3) -->
 
