@@ -9,7 +9,8 @@ nav_enabled: false
 # Prompt
 
 {: .note-title }
-> To show the limitations and benefits of the SAMR and TPACK models can you summarise the models and their strengths and weaknesses into a mark down table, that would provide an overview of these ideas for your colleagues.  Using the following review of a brief lesson overview using the SMAR and TPACK models, as well a general information about the terms and sections of these models "## Two models and one lesson
+>
+> To show the limitations and benefits of the SAMR and TPACK models can you summarise the models and their strengths and weaknesses into a mark down table, that would provide an overview of these ideas for your colleagues.  Using the following review of a brief lesson overview using the SMAR and TPACK models, as well a general information about the terms and sections of these models: ## Two models and one lesson
 >
 > ### My lesson idea
 >
