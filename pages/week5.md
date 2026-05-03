@@ -9,28 +9,27 @@ nav_order: 4
 
 # Week 5
 
-# Constructivist classroom
+## Constructivist classroom comic
+{: .note-title }
+>
+> ![comic of constructivist classroom made using https://makebeliefscomix.com/Comix/](img/05-growthmindset.png)
+> Made using [https://makebeliefscomix.com/Comix/](https://makebeliefscomix.com/Comix/)
 
-![comic of constructivist classroom made using https://makebeliefscomix.com/Comix/](img/05-growthmindset.png)
-
-Comic
-
-
-
-Once you have completed your comic, post it to your ePortfolio, including a brief explanation of how your comic illustrates your constructivist classroom, and justifying your approach in the classroom. (150-200 words maximum.)
-Remember to include references to the readings (and any other literature you've drawn on) in your writing. 
-
-Part B
-
-In the text of your comic, explain what sort of pedagogical approach is being used in your illustration/s. Are we seeing a behaviourist, cognitive, constructivist, and/or social constructivist approach?
-
-Is there a digital technology that could be used to achieve this approach? Or if you used technology, would a different pedagogy be useful? For example, students in a mathematics class might be using counters on a table in a group, but if they were using a counting game on an iPad, what would change? Who would benefit (or not)?
-
-What would be the issues you would have to consider when choosing a digital tool for this purpose? (For example, student tracking, biases, distractions, social learning, etc.)
+The student’s journey in my above comic mirrors a constructivist pedagogy approach, where learning emerges through doing, reflecting, and adapting. In this class the student was initially worried about having no design idea, then chooses an technically detailed bike pattern, reflecting autonomy. When the first geometric shape didn’t turn out as intended, they felt defeated. Where I (the teacher) briefly intervened by encouraging the student to work with the mistake instead of providing a timber project. This small prompt creates a condition for self-discovery, as the student reconsidered their design and played with having to keep the project, making it a “cringe” radio/boombox item they weren’t really interested in initially. The student ultimately found satisfaction, and this strange, ironic motif spreads to others adapting their designs to be “wood-aged” phones and laptops, demonstrating how knowledge is co-constructed socially. As Bower (2017) summarises, constructivist educators facilitate reflection and challenge misconceptions rather than deliver facts. My light touch teaching, questioning without rescuing, exemplified this. Alternative labels could include constructionism (making tangible artifacts) or socio-cultural learning (peer influence), but the core aligns with constructivist facilitation over knowledge transmission. 
 
 
+## Part B
 
-AI task
+Digital technology typically undermines the cabove constructivist moment because it offers undo, erase, and reset functions. In pyrography, mistakes are permanent—forcing the student to adapt and reflect. Haptic woodworking simulations remain cost-prohibitive, awkward to use, and overly complicated compared to real-life woodworking.
 
-![AI task](img/05-canvaAI.png)
-AI image of the situation in the comic using Canva AI image generator
+However, a constrained digital environment like Minecraft could work for younger students—if creative mode is disabled or block-breaking is limited. A student who makes a placement or design choice mistake cannot delete it must then incorporate the error, enabling constructivist reflection and peer co-construction. The key is designing limitation into the tool. Without that, technology defaults to erasure rather than adaptation, losing the pedagogical value entirely.
+
+
+## AI Task
+
+{: .note-title }
+> 
+> ![AI task](img/05-canvaAI.png)
+> This is an attempt to get an AI image generator to create an image of the above situation using [Canva](https://www.canva.com/ai-image-generator/)
+>
+> Canva’s AI image generator failed to produce usable classroom scenes. It omitted students in 60% of outputs, ignored prompts about digital technologies or personalised learning, and required twenty attempts to show a student with a messy design. Adding or rewording instructions produced no noticeable change.

@@ -9,3 +9,5 @@ parent: Ass3
 <h2> References </h2>
 </div>
 
+Bower, M. (2017). Pedagogy and Technology-Enhanced Learning. In _Design of Technology-Enhanced Learning_ (pp. 35–63). Emerald Publishing Limited. [https://doi.org/10.1108/978-1-78714-182-720171005](https://doi.org/10.1108/978-1-78714-182-720171005)
+
