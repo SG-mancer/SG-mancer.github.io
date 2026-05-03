@@ -1,7 +1,7 @@
 ---
 title: References
 layout: default
-parent: Home
+parent: Ass2
 
 ---
 
