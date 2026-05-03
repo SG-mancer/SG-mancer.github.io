@@ -2,7 +2,7 @@
 title: Assignment 2 reflective task
 layout: page
 
-parent: Home
+parent: Ass2
 nav_enabled: true
 nav_order: 5
 ---
