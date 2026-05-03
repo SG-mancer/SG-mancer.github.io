@@ -2,7 +2,7 @@
 title: Hype-to-Actual “Claim Check”
 layout: page
 
-parent: Home
+parent: Ass2
 nav_enabled: true
 nav_order: 2
 ---
