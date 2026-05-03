@@ -1,5 +1,5 @@
 ---
-title: 6) Decision Note: Using GenAI
+title: 6b) AI task problem
 layout: page
 
 parent: 6) Decision Note: Using GenAI

@@ -4,7 +4,7 @@ layout: page
 
 parent: Ass3
 nav_enabled: true
-nav_order: 4
+nav_order: 2
 ---
 
 # Week 5
