@@ -11,7 +11,7 @@ nav_order: 4
 
 # Constructivist classroom
 
-![comic of constructivist classroom made using https://makebeliefscomix.com/Comix/](img/05-imagegeneratorcom.png)
+![comic of constructivist classroom made using https://makebeliefscomix.com/Comix/](img/05-growthmindset.png)
 
 Comic
 
