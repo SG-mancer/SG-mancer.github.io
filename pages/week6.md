@@ -1,5 +1,5 @@
 ---
-title: 6) Decision Note: Using GenAI
+title: 6) Decision Note Using GenAI
 layout: page
 
 parent: Ass3

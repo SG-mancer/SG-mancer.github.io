@@ -2,7 +2,7 @@
 title: 6b) AI task problem
 layout: page
 
-parent: 6) Decision Note: Using GenAI
+parent: 6) Decision Note Using GenAI
 nav_enabled: true
 nav_order: 1
 ---
