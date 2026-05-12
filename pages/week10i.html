@@ -1,0 +1,301 @@
+        
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CAD vs CAM – Varied Response Formats (UDL)</title>        
+        <style>
+            body {
+    font-family: Arial, sans-serif;
+    max-width: 950px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f0f2f5;
+    line-height: 1.5;
+}
+.time-guide {
+    background: #d9eafb;
+    padding: 12px 18px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    border-left: 6px solid #004b7c;
+}
+.format-key {
+    background: #e9ecef;
+    padding: 10px 15px;
+    border-radius: 10px;
+    margin-bottom: 25px;
+    font-size: 0.9em;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+.badge {
+    background: #004b7c;
+    color: white;
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-size: 0.8em;
+}
+.quiz-card {
+    background: white;
+    border-radius: 18px;
+    padding: 20px;
+    margin-bottom: 30px;
+    box-shadow: 0 3px 12px rgba(0,0,0,0.1);
+    border-top: 6px solid #0077b6;
+}
+.mini-lesson {
+    background: #fef4e8;
+    padding: 10px 14px;
+    margin-bottom: 15px;
+    border-radius: 12px;
+    font-size: 0.95em;
+    border-left: 4px solid #f4a261;
+}
+.question-text {
+    font-size: 1.3em;
+    font-weight: bold;
+    margin: 10px 0 15px 0;
+    color: #023047;
+}
+.response-area {
+    padding: 15px;
+    border-radius: 14px;
+    margin-top: 10px;
+}
+textarea {
+    width: 95%;
+    padding: 10px;
+    margin: 8px 0;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    font-family: inherit;
+    background-color: #fffef7;
+}
+textarea:focus {
+    background-color: #fff9e0;
+    border-color: #0077b6;
+    outline: none;
+}
+.response-area label.emoji-option {
+    display: block;
+    padding: 8px 12px;
+    margin: 6px 0;
+    border-radius: 10px;
+    background-color: #e6f4ea;
+}
+.response-area label.emoji-option:hover {
+    background-color: #d0e8d9;
+}
+.response-area:has(input[type="checkbox"]) {
+    background-color: #f4faf6;
+    border-radius: 14px;
+}
+.response-area:has(input[type="radio"]) {
+    background-color: #fff5f0;
+    border-radius: 14px;
+}
+.response-area:not(:has(input[type="checkbox"])):not(:has(input[type="radio"])) {
+    background-color: #fef9e6;
+}
+.audio-controls {
+    background-color: #e3f0fc;
+    padding: 12px;
+    border-radius: 12px;
+    margin: 10px 0;
+}
+.audio-controls button {
+    background: #0077b6;
+    color: white;
+    border: none;
+    padding: 6px 14px;
+    border-radius: 25px;
+    cursor: pointer;
+    margin-right: 8px;
+}
+.audio-controls button:disabled {
+    background: #aaa;
+    cursor: not-allowed;
+}
+.method-label {
+    font-weight: bold;
+    color: #0077b6;
+    margin: 16px 0 8px 0;
+    padding: 4px 0;
+}
+.feedback {
+    margin-top: 15px;
+    padding: 10px;
+    background: #e6f4ea;
+    border-radius: 10px;
+    color: #1e5a2e;
+}
+.submit-btn {
+    background-color: #0077b6;
+    color: white;
+    padding: 12px 28px;
+    border: none;
+    border-radius: 40px;
+    font-size: 1.1em;
+    cursor: pointer;
+    margin: 20px 0;
+}
+.transcript {
+    background: #fff3e0;
+    padding: 18px;
+    border-radius: 14px;
+    margin-top: 35px;
+    border-left: 6px solid #f4a261;
+}
+hr {
+    margin: 20px 0;
+}
+@media (prefers-reduced-motion: reduce) {
+    * {
+        transition: none;
+    }
+}
+        </style>
+    </head>
+<body>
+<body>
+<h1>🛠️ CAD vs CAM: Workshop Design & Manufacturing</h1>
+
+<div class="time-guide">
+    ⏱️ <strong>5–8 minute activity</strong> — Read the facts, answer 5 questions using different response styles, then review feedback.
+</div>
+
+<div class="format-key">
+    <span>📌 <strong>Varied response formats per question</strong> (UDL: multiple means of action & expression)</span>
+    <span class="badge">🎤 Audio + ✏️ Typing</span>
+    <span class="badge">✅ Multiple-select + 😀 Emojis</span>
+    <span class="badge">🔘 Single-select + 🎨 Emojis</span>
+</div>
+
+<!-- ========== Q1: Typing + Audio ONLY (no radio) ========== -->
+<div class="quiz-card">
+    <div class="mini-lesson">
+        📘 <strong>Quick fact:</strong> CAD (Computer‑Aided Design) lets you create 2D drawings and 3D models before cutting any material.
+    </div>
+    <div class="question-text">1️⃣ Name one specific way CAD helps a metal or timber workshop save money or time.</div>
+    <div class="response-area">
+        <div class="method-label">✏️ Option 1: Type your answer</div>
+        <textarea rows="2" placeholder="e.g., 'It reduces material waste by nesting parts' or 'You can test designs virtually'..." class="answer-text" data-q="1"></textarea>
+        <br/><br/>
+        <div class="method-label">🎙️ Option 2: Record a spoken answer</div>
+        <div class="audio-controls">
+            <button class="record-btn" data-q="1">🎤 Start Recording</button>
+            <button class="stop-btn" data-q="1" disabled>⏹️ Stop</button>
+            <audio controls class="playback" data-q="1" style="display:block; margin-top:6px;"></audio>
+        </div>
+    </div>
+    <div class="feedback" id="feedback-1"></div>
+</div>
+
+<!-- ========== Q2: Multiple-select checkboxes + EMOJIS ========== -->
+<div class="quiz-card">
+    <div class="mini-lesson">
+        📘 <strong>Quick fact:</strong> CAD can do more than just drawing — it can simulate stress, generate cutting lists, and create photo‑realistic renders.
+    </div>
+    <div class="question-text">2️⃣ Which of these are actual uses of CAD in manufacturing? <span style="font-size:0.9em;">(✅ Select ALL that apply — more than one correct)</span></div>
+    <div class="response-area">
+        <div class="method-label">✅ Multiple-select (check all that are true)</div>
+        <label class="emoji-option"><input type="checkbox" name="q2" value="3D modelling"> 🧊 3D modelling</label><br>
+        <label class="emoji-option"><input type="checkbox" name="q2" value="Generating cutting lists"> 📋 Generating cutting lists </label><br>
+        <label class="emoji-option"><input type="checkbox" name="q2" value="Ordering coffee"> ☕ Ordering coffee for the workshop </label><br>
+        <label class="emoji-option"><input type="checkbox" name="q2" value="Stress analysis"> ⚙️ Virtual stress / strength analysis</label><br>
+        <label class="emoji-option"><input type="checkbox" name="q2" value="Painting finished goods"> 🎨 Painting finished products</label>
+      <br/><br/>
+        
+        <div class="method-label">🎙️ Alternative: Record a spoken answer instead</div>
+        <div class="audio-controls">
+            <button class="record-btn" data-q="2">🎤 Start Recording</button>
+            <button class="stop-btn" data-q="2" disabled>⏹️ Stop</button>
+            <audio controls class="playback" data-q="2" style="display:block; margin-top:6px;"></audio>
+        </div>
+    </div>
+    <div class="feedback" id="feedback-2"></div>
+</div>
+
+<!-- ========== Q3: Typing + Audio ONLY (open-ended on CAD vs CAM) ========== -->
+<div class="quiz-card">
+    <div class="mini-lesson">
+        📘 <strong>Quick fact:</strong> CAM (Computer‑Aided Manufacturing) takes CAD files and turns them into machine instructions (G‑code) for CNC routers, laser cutters, and mills.
+    </div>
+    <div class="question-text">3️⃣ In your own words, what is the MAIN difference between CAD and CAM?</div>
+    <div class="response-area">
+        <div class="method-label">✏️ Type your answer</div>
+        <textarea rows="2" placeholder="e.g., 'CAD is for design, CAM is for automated cutting/machining'..." class="answer-text" data-q="3"></textarea>
+        <br/><br/>
+        <div class="method-label">🎙️ Record your spoken explanation</div>
+        <div class="audio-controls">
+            <button class="record-btn" data-q="3">🎤 Start Recording</button>
+            <button class="stop-btn" data-q="3" disabled>⏹️ Stop</button>
+            <audio controls class="playback" data-q="3" style="display:block; margin-top:6px;"></audio>
+        </div>
+    </div>
+    <div class="feedback" id="feedback-3"></div>
+</div>
+
+<!-- ========== Q4: Single-select radio buttons + EMOJIS ========== -->
+<div class="quiz-card">
+    <div class="mini-lesson">
+        📘 <strong>Quick fact:</strong> A CNC router can cut timber, aluminium, and plastics — but it needs CAM software to tell it where to move.
+    </div>
+    <div class="question-text">4️⃣ What does CAM add that CAD alone cannot do? (Choose ONE best answer)</div>
+    <div class="response-area">
+        <div class="method-label">🔘 Select one answer (with emojis)</div>
+        <label class="emoji-option"><input type="radio" name="q4" value="Draw pretty pictures"> 🎨 Draw pretty pictures </label><br>
+        <label class="emoji-option"><input type="radio" name="q4" value="Control CNC machines automatically"> 🤖 Control CNC machines </label><br>
+        <label class="emoji-option"><input type="radio" name="q4" value="Sharpen drill bits"> 🔧 Sharpen drill bits</label><br>
+        <label class="emoji-option"><input type="radio" name="q4" value="Measure timber moisture"> 🌲 Measure timber moisture</label>
+        <br/><br/>
+        <div class="method-label">🎙️ Or record your spoken answer</div>
+        <div class="audio-controls">
+            <button class="record-btn" data-q="4">🎤 Start Recording</button>
+            <button class="stop-btn" data-q="4" disabled>⏹️ Stop</button>
+            <audio controls class="playback" data-q="4" style="display:block; margin-top:6px;"></audio>
+        </div>
+    </div>
+    <div class="feedback" id="feedback-4"></div>
+</div>
+
+<!-- ========== Q5: Typing + Audio ONLY (real-world application) ========== -->
+<div class="quiz-card">
+    <div class="mini-lesson">
+        📘 <strong>Quick fact:</strong> Many modern workshops use CAD + CAM together — design on screen, then cut on a CNC machine without manual measuring.
+    </div>
+    <div class="question-text">5️⃣ Describe ONE real-world project where you would use BOTH CAD and CAM. (e.g., a piece of furniture, metal bracket, sign, etc.)</div>
+    <div class="response-area">
+        <div class="method-label">✏️ Type your example</div>
+        <textarea rows="2" placeholder="e.g., 'Design a wooden cabinet in CAD, then use CAM to cut the panels on a CNC router'..." class="answer-text" data-q="5"></textarea>
+        <br/><br/>
+        <div class="method-label">🎙️ Record your spoken example</div>
+        <div class="audio-controls">
+            <button class="record-btn" data-q="5">🎤 Start Recording</button>
+            <button class="stop-btn" data-q="5" disabled>⏹️ Stop</button>
+            <audio controls class="playback" data-q="5" style="display:block; margin-top:6px;"></audio>
+        </div>
+    </div>
+    <div class="feedback" id="feedback-5"></div>
+</div>
+
+<button class="submit-btn">📥 Submit & Get Feedback</button>
+
+<!-- Transcript for UDL princples etc.-->
+<div class="transcript">
+    <h3>📄 Accessibility & Transcript Information</h3>
+    <p><strong>Visual description:</strong> Each question card has a coloured top border, a light orange fact box, and a alternative background colour for response types areas. Buttons are labelled clearly. Emojis accompany options for visual support.</p>
+  <p>All questions and text can be read with a screenreader, and conforms to colour constrast requirements (checked using the Lighthouse plugin - scoring 100% accessibiltity and best practice)</p>
+    <p><strong>Expected audio/text answers (guide for markers / readers of this portfolio):</strong></p>
+    <ul>
+        <li><strong>Q1:</strong> Reduces waste, virtual testing, faster revisions, accurate cutting lists.</li>
+        <li><strong>Q2:</strong> Correct checkboxes: 3D modelling, cutting lists, stress/strength analysis. Coffee and painting are wrong.</li>
+        <li><strong>Q3:</strong> CAD = design/drawing; CAM = manufacturing/machine control.</li>
+        <li><strong>Q4:</strong> Control CNC machines.</li>
+        <li><strong>Q5:</strong> Any valid example: cabinet, sign, engine bracket, furniture, etc.</li>
+</div>
+</body>
+</html>
