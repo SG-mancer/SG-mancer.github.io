@@ -11,7 +11,7 @@ parent: Ass3
 
 CAST. (2024). The UDL guidelines. [https://udlguidelines.cast.org/](https://udlguidelines.cast.org/)
 
-Cohen, J. (2026, April). Why Swedish Schools Are Bringing Back Books. Undark 	Magazine. https://undark.org/2026/04/01/sweden-schools-books/
+Cohen, J. (2026, April). Why Swedish Schools Are Bringing Back Books. Undark 	Magazine. [https://undark.org/2026/04/01/sweden-schools-books/](https://undark.org/2026/04/01/sweden-schools-books/)
 
 Bower, M. (2017). Pedagogy and Technology-Enhanced Learning. In _Design of Technology-Enhanced Learning_ (pp. 35–63). Emerald Publishing Limited. [https://doi.org/10.1108/978-1-78714-182-720171005](https://doi.org/10.1108/978-1-78714-182-720171005)
 
